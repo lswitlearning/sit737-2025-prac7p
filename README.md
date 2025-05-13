@@ -1,7 +1,6 @@
 ## Deploying a Simple Price Tracker - MongoDB + Kubernetes Deployment
-
-This project is a minimal Node.js CRUD API for managing product names and prices, connected to MongoDB and fully deployed on Kubernetes. It demonstrates secure credential handling, persistent storage, database backup and recovery, and basic monitoring. 
 ---
+This project is a minimal Node.js CRUD API for managing product names and prices, connected to MongoDB and fully deployed on Kubernetes. It demonstrates secure credential handling, persistent storage, database backup and recovery, and basic monitoring. 
 
 ### Features
 - Create, Read, Update, and Delete (CRUD) products
